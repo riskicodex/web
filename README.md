@@ -41,17 +41,3 @@
 | **HTML5**  | Structure |
 | **CSS3**   | Styling & animations |
 | **JavaScript** | Interactivity & effects |
-
----
-
-## 📦 Installation
-```bash
-# Clone this repository
-git clone https://github.com/Miko-Ard/Galaxy-love.git
-
-# Navigate into the project
-cd Galaxy-love
-
-# Open in browser
-start index.html   # Windows
-open index.html    # Mac
